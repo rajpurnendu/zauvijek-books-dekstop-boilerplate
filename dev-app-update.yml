@@ -1,0 +1,3 @@
+provider: generic
+url: https://zauvijek.com/zauvijek-books/auto-updates
+updaterCacheDirName: zauvijek-books-updater
